@@ -1,7 +1,7 @@
 # Smart grid
 ## Overview
 
-This is a project to **optimise** load usage in different states of the United States by studying **previous** year's data and predicting **future** trends in energy usage demands.
+This is a project to **accurately predict** load usage in different states of the United States by studying **previous** year's data and predicting **future** trends in energy usage demands.
 
 ## Objectives
 We are studying the energy usage data for different states in the United states to determine future energy usage.
