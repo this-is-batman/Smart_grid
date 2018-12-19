@@ -9,4 +9,4 @@ We are specifically interested in observing the **trends** between the years `20
 
 By observing the trends in data demands in these `3` years, we are trying to **generate** an **optimal** algorithm to predict the energy usage for the year `2017`.
 
-We are tring to design an algorithm which meets our energy demands when considered for a **medium term forecasting model**.
+We are trying to design an algorithm which meets our energy demands when considered for a **medium term forecasting model**.
