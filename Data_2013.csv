@@ -1,53 +1,53 @@
-State,Energy Consumption(Trillion BTU),GDP(Bllions)
- Texas,12944.1,1395.4
-  Florida,7684.1,749.3
- California,4077.9,2055.2
-  Illinois,4011.5,672.1
-  Louisiana,3835,211.9
-  Pennsylvania,3795,598.4
-  Ohio,3745.4,521.2
-  New York,3625.3,1248.4
-  Indiana,2900,288.1
-  Michigan,2843.2,409.6
-  Georgia,2795.4,425.7
-  North Carolina,2524.1,434.2
-  Virginia,2410.7,427.4
-  New Jersey,2314.5,502.2
-  Tennessee,2135.9,271.3
-  Washington,2039.3,379
-  Alabama,1931.4,181.1
-  Minnesota,1859.8,284.2
-  Missouri,1857,257.5
-  Kentucky,1822.7,170.2
-  Wisconsin,1804,266
-  Oklahoma,1622.8,158
-  South Carolina,1591.4,170.8
-  Iowa,1516.5,151.9
-  Colorado,1471.8,267.2
-  Massachusetts,1442.6,415.4
-  Arizona,1414.8,257.2
-  Maryland,1403.8,318.7
-  Kansas,1163.1,130.5
-  Mississippi,1141.8,95.6
-  Arkansas,1093,109.9
-  Oregon,996.7,196.8
-  Nebraska,871.8,98.5
-  Utah,830.6,124.3
-  Connecticut,748.1,231.2
-  West Virginia,737.8,64.7
-  New Mexico,688.5,82.7
-  Nevada,657.1,119.6
-  Alaska,609,49.4
-  North Dakota,588.6,45.4
-  Wyoming,535.5,35.7
-  Idaho,529.5,56.1
-  Maine,407.1,50.9
-  Montana,401.2,38.8
-  South Dakota,390.4,39.6
-  New Hampshire,302.8,64.8
-  Hawaii,277.1,70
-  Delaware,274.5,56
-  Rhode Island,193.6,49.9
-  District of Columbia,170.9,103.4
-  Vermont,133.6,27
- , ,
+State,Energy Consumption(Trillion BTU),GDP(Bllions),Population Density(per sqkm)
+ Texas,12944.1,1395.4,39.1
+  Florida,7684.1,749.3,140.8
+ California,4077.9,2055.2,95
+  Illinois,4011.5,672.1,89.6
+  Louisiana,3835,211.9,41.3
+  Pennsylvania,3795,598.4,110.2
+  Ohio,3745.4,521.2,109.3
+  New York,3625.3,1248.4,161
+  Indiana,2900,288.1,70.8
+  Michigan,2843.2,409.6,67.6
+  Georgia,2795.4,425.7,67.1
+  North Carolina,2524.1,434.2,78.2
+  Virginia,2410.7,427.4,80.8
+  New Jersey,2314.5,502.2,467.2
+  Tennessee,2135.9,271.3,60.8
+  Washington,2039.3,379,40.5
+  Alabama,1931.4,181.1,36.9
+  Minnesota,1859.8,284.2,26.3
+  Missouri,1857,257.5,33.9
+  Kentucky,1822.7,170.2,43
+  Wisconsin,1804,266,40.9
+  Oklahoma,1622.8,158,21.7
+  South Carolina,1591.4,170.8,61.3
+  Iowa,1516.5,151.9,21.4
+  Colorado,1471.8,267.2,19.6
+  Massachusetts,1442.6,415.4,331.3
+  Arizona,1414.8,257.2,22.5
+  Maryland,1403.8,318.7,235.8
+  Kansas,1163.1,130.5,13.7
+  Mississippi,1141.8,95.6,24.6
+  Arkansas,1093,109.9,22
+  Oregon,996.7,196.8,15.8
+  Nebraska,871.8,98.5,9.4
+  Utah,830.6,124.3,13.6
+  Connecticut,748.1,231.2,286.7
+  West Virginia,737.8,64.7,29.8
+  New Mexico,688.5,82.7,6.6
+  Nevada,657.1,119.6,9.8
+  Alaska,609,49.4,0.5
+  North Dakota,588.6,45.4,4
+  Wyoming,535.5,35.7,2.3
+  Idaho,529.5,56.1,7.5
+  Maine,407.1,50.9,16.6
+  Montana,401.2,38.8,2.7
+  South Dakota,390.4,39.6,4.3
+  New Hampshire,302.8,64.8,57.1
+  Hawaii,277.1,70,84.4
+  Delaware,274.5,56,183.4
+  Rhode Island,193.6,49.9,392.7
+  District of Columbia,170.9,103.4,4088.4
+  Vermont,133.6,27,26.3
+ , ,,
