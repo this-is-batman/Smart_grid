@@ -6,6 +6,6 @@ At first, we examine the following scatter plots:-
 
 ![Image1](https://github.com/this-is-batman/Smart_grid/blob/master/Plots/energyvsGDP.png)
 
-**2.** **Plot of Energy Consumption vs Popultaion Density**
+**2.** **Plot of Energy Consumption vs Population Density**
 
 ![Image2](https://github.com/this-is-batman/Smart_grid/blob/master/Plots/energyvspop.png)
