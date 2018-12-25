@@ -32,4 +32,6 @@ Now, for the second attempt, we can see that by removing the **outliers**(one ex
 
 **Thus we can clearly see that the value of correlation coefficient improves by removing the outliers.**
 
+**We are combining 2014 data with 2013 data.**
+
 ```This data is only for the year 2013, the data for years 2014, 2015, 2016 are yet to be added.```
