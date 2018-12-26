@@ -17,3 +17,7 @@ After removing the **outliers** from the `average temperature` data, we get the 
 ![Analysis_stage3](https://github.com/this-is-batman/Smart_grid/blob/master/Images/analysis_stage3.png)
 
 The **correlation coefficient** increases to **0.6603** and the **root mean squared error** is much less compared to previous.Thus we can see an overall improvement.
+
+### Note
+
+If we use `Random Tree` classifier, the **correlation coefficient** is **0.922**, for `REP tree` the **correlation coefficient** is **0.8522**, for `Random Forest` classifier, the **correlation coefficient** is **0.9126**.Thus, these classifiers can also be used in the future.
