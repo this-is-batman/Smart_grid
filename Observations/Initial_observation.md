@@ -16,7 +16,7 @@ Now if we do **Linear regression** using `Energy Consumption` as **dependent** v
 
 Here we see the **correlation coefficient** is **0.4604** which is bad and the **root mean squared error** is very high which suggests that for the next attempt we should go for a different set of factors or that the factors considered do not really affect the energy consumption.
 
-Now, for the second attempt, we can see that by removing the **outliers**(one extreme in `GDP` value and one exterme in `energy consumption` value) the **correlation coefficient** improves to **0.6858** as is visible in the following results:-
+Now, for the second attempt, we can see that by removing the **outliers**(one extreme in `GDP` value and one extreme in `energy consumption` value) the **correlation coefficient** improves to **0.6858** as is visible in the following results:-
 
 ![analysis_stage1](https://github.com/this-is-batman/Smart_grid/blob/master/Images/analysis_stage1.png)
 
