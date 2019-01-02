@@ -21,3 +21,5 @@ The **correlation coefficient** increases to **0.6603** and the **root mean squa
 ### Note
 
 If we use `Random Tree` classifier, the **correlation coefficient** is **0.922**, for `REP tree` the **correlation coefficient** is **0.8522**, for `Random Forest` classifier, the **correlation coefficient** is **0.9126**.Thus, these classifiers can also be used in the future.
+
+As uploaded in the [Ipynb file](https://github.com/this-is-batman/Smart_grid/blob/master/Observations/observations.ipynb), we can see that there is strongest **correlation** between `Energy Consumption` and `GDP`, which clearly suggests that GDP is one of the most important determining factors when predicting future **Energy Consumption** values. The **correlation** between `Energy Consumption` and `GDP` is `0.72`.
